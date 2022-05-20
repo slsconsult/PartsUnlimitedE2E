@@ -3,7 +3,8 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    // My fourth change in kristof1 branch
+    // My fourth change in kristof1 branch -> merged
+    // second change in Kristof1 branch
     public class Category
     {
         public int CategoryId { get; set; }
